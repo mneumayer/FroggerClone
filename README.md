@@ -21,7 +21,7 @@ The player moves with the directional keys.
 
  - The Up arrow key moves the player "Up"
  - The Down arrow key moves the player "Down"
-- The Left arrow key moves the player "Left"
+ - The Left arrow key moves the player "Left"
  - The Right arrow key moves the player "Right"
 
 # Goal
